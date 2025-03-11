@@ -8,4 +8,4 @@ Route::get('/', function () {
 
 Route::get('/area-privata', function () {
     return view('auth.private');
-})->middleware('auth');
+})->middleware('auth')->name('auth.private');

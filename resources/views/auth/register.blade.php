@@ -1,5 +1,5 @@
 <x-layout>
-
+    <x-navbar></x-navbar>
 <div class="container">
     <div class="row justify-content-center alig-items-center">
         <div class="col-12 text-center mt-5" >
